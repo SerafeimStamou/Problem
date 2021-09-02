@@ -1,0 +1,16 @@
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\Problem.exe
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\Problem.deps.json
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\Problem.runtimeconfig.json
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\Problem.runtimeconfig.dev.json
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\Problem.dll
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\ref\Problem.dll
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\bin\Debug\net5.0\Problem.pdb
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.csproj.AssemblyReference.cache
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.AssemblyInfoInputs.cache
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.AssemblyInfo.cs
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.csproj.CoreCompileInputs.cache
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.dll
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\ref\Problem.dll
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.pdb
+C:\Users\Σεραφείμ\Desktop\FruitApp\Problem\obj\Debug\net5.0\Problem.genruntimeconfig.cache
